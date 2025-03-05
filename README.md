@@ -1,7 +1,11 @@
 <p align="center">
-  <a href="https://postimg.cc/Ln00q6np">
-    <img src="https://i.postimg.cc/NjghzKt5/Picsart-24-09-07-22-32-43-993.png" width="180" alt="PCNode Logo">
+  <a href="https://postimg.cc/tZ77qYHn">
+    <img src="https://i.postimg.cc/RFLtTHsd/db814f7420c98befdd7ee2d2e30c41f6-ezgif-com-crop.gif" width="100%" alt="Meteor Animation">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/NjghzKt5/Picsart-24-09-07-22-32-43-993.png" width="180" alt="PCNode Logo">
 </p>
 
 <h1 align="center">👋 Welcome to PCNode</h1>
