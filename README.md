@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/logo.png" width="200" alt="PCNode Logo">
+  <a href="https://postimg.cc/Ln00q6np">
+    <img src="https://i.postimg.cc/NjghzKt5/Picsart-24-09-07-22-32-43-993.png" width="200" alt="PCNode Logo">
+  </a>
 </p>
 
 # 👋 Welcome to PCNode
