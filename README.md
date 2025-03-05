@@ -1,29 +1,56 @@
-# 👋 Hi, I’m @PCNode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/logo.png" width="200" alt="PCNode Logo">
+</p>
+
+# 👋 Welcome to PCNode
 
 🚀 **Blockchain Validator & Node Operator**  
-I am a professional node operator and blockchain validator, dedicated to ensuring the security, decentralization, and stability of various blockchain networks. With extensive experience in infrastructure management, I contribute to strengthening the Web3 ecosystem.
+I am a professional **node operator and blockchain validator**, dedicated to ensuring the **security, decentralization, and stability** of various blockchain networks. My goal is to contribute to a more decentralized and efficient blockchain ecosystem.
 
-## 🔍 About Me
-- 🌐 Experienced in running and managing validator nodes across multiple blockchain networks.
-- ⚡ Currently operating nodes on **Symphony Testnet, Swisstronik, PWR, Story Project, BlockX, Empeirias, Zenrock, and Initia**.
-- 🛠️ Skilled in **Docker, systemd, monitoring tools, and security best practices** to ensure high uptime and performance.
-- 🔒 Focused on **network security, performance optimization, and decentralized governance**.
+---
 
-## 🤝 Looking to Collaborate On
-I am open to working on:
-- **Staking & Validator Partnerships**  
-  Supporting blockchain projects by running reliable validator nodes.
-- **Node Deployment & Maintenance**  
-  Helping set up, optimize, and maintain nodes for different blockchain networks.
-- **Blockchain Infrastructure Consulting**  
-  Providing insights and strategies to enhance network security and performance.
+### 🏆 Validator & Node Services
+🔹 Secure & Reliable **Validator Node** Operations  
+🔹 Experience with **multiple blockchain networks**  
+🔹 **High Uptime** with advanced monitoring & optimization  
+🔹 **Decentralization-focused** contributor  
 
-## 📫 How to Reach Me
-For any inquiries or collaborations, feel free to contact me through the following channels:
+I currently operate nodes on:  
+✅ **Symphony Testnet**  
+✅ **Swisstronik Testnet**  
+✅ **PWR, Story Project, BlockX, Empeirias, Zenrock, Initia**  
 
-- 🐦 Twitter: [PCNode_91](https://x.com/PCNode_91)  
-- 💬 Discord: **Pcnode91**  
-- 📩 Telegram: [PCNode](http://t.me/PCNode)  
-- ✉️ Email: **Pcnode91@gmail.com**  
+---
 
-⚡ **Fun Fact:** I enjoy managing blockchain infrastructure and constantly seek new challenges in the Web3 space!
+### 🔧 My Tech Stack
+- **Infrastructure**: Docker, systemd, Kubernetes  
+- **Monitoring**: Prometheus, Grafana, Node Exporter  
+- **Security**: Fail2Ban, UFW, SSL Encryption  
+- **Languages**: Bash, Python, Solidity  
+
+---
+
+### 🤝 Looking to Collaborate On
+💡 **Validator Partnerships** – Secure staking solutions  
+🛠️ **Node Deployment & Optimization** – Reliable & efficient setups  
+📈 **Blockchain Infrastructure Consulting** – Scaling & performance improvements  
+
+---
+
+### 📊 Validator Status
+![Uptime](https://img.shields.io/uptimerobot/ratio/7/m123456789?style=flat-square)  
+![Nodes Online](https://img.shields.io/badge/Nodes-Active-green?style=flat-square)  
+![Security](https://img.shields.io/badge/Security-Top%20Priority-blue?style=flat-square)  
+
+---
+
+### 📫 Connect with Me
+📢 **Twitter**: [@PCNode_91](https://x.com/PCNode_91)  
+💬 **Discord**: **Pcnode91**  
+📩 **Telegram**: [PCNode](http://t.me/PCNode)  
+✉️ **Email**: **Pcnode91@gmail.com**  
+
+---
+
+⚡ **Fun Fact:** I love exploring new blockchain technologies and constantly improving my validator infrastructure!  
+💎 **Want to support decentralization?** Stake with **PCNode**! 🚀
